@@ -3,7 +3,7 @@
 
 训练集来自于drive.ai
 
-使用模型前后图片效果见sample_input.jpg sample_output.jpg
+项目图文介绍及核心算法参见[项目介绍](https://github.com/zhuangzheng/car-detection/blob/master/car-detection.ipynb)
 
 以下对项目实现原理做一个简要介绍
 ----------------------------------------------------------------------------------------------------------------------------------------
