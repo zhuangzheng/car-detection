@@ -3,7 +3,7 @@
 
 训练集来自于drive.ai
 
-项目图文介绍及核心算法参见[项目介绍](https://github.com/zhuangzheng/car-detection/blob/master/car-detection.ipynb)
+项目图文介绍及核心代码见[项目介绍](https://github.com/zhuangzheng/car-detection/blob/master/car-detection.ipynb)
 
 如无法打开，可参考以下文字介绍
 
@@ -24,6 +24,7 @@
     c1-c80表示可以识别的80种物体类型的概率，取值在（0,1），可以检测的物体类型在coco_classes.txt中
 
 这一个维度用于标记图片上识别出的一个物体，也就是画出一个格子
+![输入样例](./out/test.jpg)
 
 倒数第二个维度表示5个anchor box，也就是可以同时在一个单元格中检测五个物体
 
